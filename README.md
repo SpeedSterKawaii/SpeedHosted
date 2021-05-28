@@ -26,5 +26,9 @@
 
 # Other Details & Stuff:
 
-I will release an example /w imperious transpiler to show you.
-(remember, functions would look different then usual).
+- I will release an example /w imperious transpiler to show you.
+- (remember, functions would look different then usual).
+- **PayPal only**, we dont accept other paying services then pp.
+
+# Doesn't work? Or Crashes?
+- Not my problem 😎
