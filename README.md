@@ -18,6 +18,7 @@
 
 - I would make it a free trial at first, then it would increase.
 - 1 week free, **10$ Yearly, 15$ Lifetime Experience, No Joke**.
+- Or 5$ per Month.
 
 # How to use this?
 
